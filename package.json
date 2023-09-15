@@ -21,5 +21,8 @@
   "homepage": "https://github.com/wzrdcrtv/BJs-Portfolio-23#readme",
   "devDependencies": {
     "parcel": "^2.9.3"
+  },
+  "dependencies": {
+    "boostrap": "^5.2.3"
   }
 }
