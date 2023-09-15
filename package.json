@@ -1,17 +1,19 @@
 {
   "name": "bjs-portfolio-23",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "This is a draft portfolio for newly certified web developer BJ Venhuizen",
+  "source": "index-23.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel --open",
+    "build": "parcel build"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wzrdcrtv/BJs-Portfolio-23.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "BJ Venhuizen",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/wzrdcrtv/BJs-Portfolio-23/issues"
