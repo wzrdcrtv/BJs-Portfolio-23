@@ -1,0 +1,23 @@
+{
+  "name": "bjs-portfolio-23",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wzrdcrtv/BJs-Portfolio-23.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wzrdcrtv/BJs-Portfolio-23/issues"
+  },
+  "homepage": "https://github.com/wzrdcrtv/BJs-Portfolio-23#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
